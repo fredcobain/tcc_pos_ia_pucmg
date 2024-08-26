@@ -1,3 +1,7 @@
 streamlit
 pandasai==1.4.10
 python-dotenv
+pandas
+matplotlib
+seaborn
+
