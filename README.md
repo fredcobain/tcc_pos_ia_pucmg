@@ -69,4 +69,22 @@ O projeto **Conversão de Linguagem Natural em Operações de Análise de Dados 
 
 ---
 
+## Documentos para Download
+
+Nesta seção, você encontrará todos os documentos relevantes para o projeto, incluindo o relatório final, o canvas de análise do software, o caderno de testes, e o dataset utilizado.
+
+### 1. Relatório Final
+- **Arquivo PDF:** [Relatório Técnico - Versão Final](https://github.com/fredcobain/tcc_pos_ia_pucmg/blob/main/Relatorio%20T%C3%A9cnico%20-%20Vers%C3%A3o%20Final.pdf)
+
+### 2. Software Analytics Canvas
+- **Arquivo PDF:** [Software Analytics Canvas - Versão Final](https://github.com/fredcobain/tcc_pos_ia_pucmg/blob/main/Software-Analtics-Canvas-Final.pdf)
+
+### 3. Caderno de Testes
+- **Arquivo Excel:** [Caderno de Testes](https://github.com/fredcobain/tcc_pos_ia_pucmg/blob/main/Caderno%20de%20Testes.xlsx)
+
+### 4. Dataset Utilizado no Trabalho
+- **Kaggle:** [IMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset)
+
+---
+
 
