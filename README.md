@@ -36,11 +36,10 @@ O projeto **Conversão de Linguagem Natural em Operações de Análise de Dados 
    ```bash
    cd tcc_pos_ia_pucmg
    ```
-3. Crie um ambiente virtual (recomendado o uso do python versão 3.10):
+3. Crie um ambiente virtual (recomendado o uso do Anaconda Python, criando um ambiente na versão Python versão 3.10):
    ```bash
-   python -m venv venv
-   source venv/bin/activate # Para Linux/Mac
-   venv\Scripts\activate # Para Windows
+   conda create --name PYTHON3_10 python=3.10
+   conda activate PYTHON3_10
    ```
 4. Instale as dependências:
    ```bash
